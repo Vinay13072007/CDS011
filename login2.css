@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://images.saymedia-content.com/.image/t_share/MTkyOTkyMzE2OTQ3MDQ3NjQ1/website-background-templates.png);
+    background-repeat: no-repeat;
+    height: 10vh;
+    background-size: cover;
+   
+    
+    padding: 100px;
+    
+}
+.container{
+    background: lightblue;
+    padding: 50px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    filter: drop-shadow(10px 10px 15px black);
+}
+.container .heading{
+    font-size: 30px;
+}
+h2{
+    font-size: 60px;
+    text-align: top;
+}
+.header{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    padding: 20px 10%;
+    width: 100%;
+}
+.logo{
+    position: relative;
+    font-size: 50px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+.navbar a{
+    display: inline-block;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 35px;
+    transition: .3s;
+}
+.navbar a:hover{
+    color: blue;
+}
+
